@@ -7,8 +7,6 @@ These are some API endpoints manually tested by myself using Postman, a special 
 
 
 ## :one: Current Weather Data by city name on https://openweathermap.org/current#name :arrow_down:
-![7](https://user-images.githubusercontent.com/115346533/206534164-dd5177c0-d130-4679-80fe-d04787fc7bbf.jpg)
-![7](https://user-images.githubusercontent.com/115346533/206534164-dd5177c0-d130-4679-80fe-d04787fc7bbf.jpg)
 
 
 
@@ -60,10 +58,61 @@ These are some API endpoints manually tested by myself using Postman, a special 
 
 
 
-## :two: API CRUD on https://qachallenge.ro/api/. It is an application where I practice CRUD operations with separate parameters for each one. :arrow_down:
+## :three: API CRUD on https://qachallenge.ro/api/. It is an application where I practice CRUD operations with separate parameters for each one. :arrow_down:
 
 
 
-### :computer: The first test with READ operation, which calls all users :fast_forward:
+### :computer: The first test with READ operation. There are called all users :fast_forward:
 ![7](https://user-images.githubusercontent.com/115346533/206533114-aaf8fd72-5151-4cce-86d6-2f025c4b6f90.jpg)
+
+#
+
+
+
+### :computer: The second test with READ operation. It is called a single user :fast_forward:
+![8](https://user-images.githubusercontent.com/115346533/206535983-ecb66812-d180-47a3-af2e-0a3e0f59f75b.jpg)
+
+#
+
+
+
+### :computer: The third test with CREATE (insert) operation. It is added a new user :fast_forward:
+![9](https://user-images.githubusercontent.com/115346533/206537809-41859b55-2ed9-465f-b31c-595d2ebaecc2.jpg)
+
+#
+
+
+
+### :computer: The fourth test with UPDATE operation. It is updated the name of one user :fast_forward:
+![10](https://user-images.githubusercontent.com/115346533/206539090-57bec8d8-17d0-4d01-928a-980d3287ea2e.jpg)
+
+#
+
+
+
+### :computer: The fifth test with DELETE operation. It is deleted one user :fast_forward:
+![11](https://user-images.githubusercontent.com/115346533/206540340-c0bea019-c024-493e-a1f3-69f5d2dd5cb5.jpg)
+
+
+------
+
+
+
+## :four: The Open Movie Database API on https://www.omdbapi.com/ :arrow_down:
+
+
+
+### :computer: The first test with 4 parameters (All data request) :fast_forward:
+![12](https://user-images.githubusercontent.com/115346533/206544613-91a72ba2-8ab1-4556-ae87-d2f47d94173e.jpg)
+
+#
+
+
+
+### :computer: The second test with 5 parameters (All data request) :fast_forward:
+![13](https://user-images.githubusercontent.com/115346533/206545423-1eb15e76-7e9e-4260-ba5f-f05e79d04eb6.jpg)
+
+#
+
+
 

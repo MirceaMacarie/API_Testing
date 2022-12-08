@@ -1,5 +1,5 @@
 # API Testing
-These are some API endpoints manually tested by myself using Postman, a special tool for API testing. I made more tests with different parameters for every endpoint, in order to verify Happy Flow, Negative Flow and Other Flows.
+These are some API endpoints manually tested by myself using Postman, a special tool for API testing. I made more tests with different parameters for every endpoint, in order to verify and practice Positive testing and Negative testing.
 
 
 ------
@@ -7,6 +7,8 @@ These are some API endpoints manually tested by myself using Postman, a special 
 
 
 ## :one: Current Weather Data by city name on https://openweathermap.org/current#name :arrow_down:
+![7](https://user-images.githubusercontent.com/115346533/206534164-dd5177c0-d130-4679-80fe-d04787fc7bbf.jpg)
+![7](https://user-images.githubusercontent.com/115346533/206534164-dd5177c0-d130-4679-80fe-d04787fc7bbf.jpg)
 
 
 
@@ -57,4 +59,11 @@ These are some API endpoints manually tested by myself using Postman, a special 
 ------
 
 
+
+## :two: API CRUD on https://qachallenge.ro/api/. It is an application where I practice CRUD operations with separate parameters for each one. :arrow_down:
+
+
+
+### :computer: The first test with READ operation, which calls all users :fast_forward:
+![7](https://user-images.githubusercontent.com/115346533/206533114-aaf8fd72-5151-4cce-86d6-2f025c4b6f90.jpg)
 

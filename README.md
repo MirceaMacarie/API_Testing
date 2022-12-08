@@ -1,6 +1,7 @@
 # API Testing
 These are some API endpoints manually tested by myself using Postman, a special tool for API testing. I made more tests with different parameters for every endpoint, in order to verify Happy Flow, Negative Flow and Other Flows.
 
+
 ------
 
 
@@ -25,5 +26,35 @@ These are some API endpoints manually tested by myself using Postman, a special 
 
 ### :computer: The third test with 4 parameters :fast_forward:
 ![3](https://user-images.githubusercontent.com/115346533/206517161-72611749-2f34-418f-ad5d-977a41433e77.jpg)
+
+
+------
+
+
+
+## :two: Call 5 day / 3 hour forecast data by city name on https://openweathermap.org/forecast5#name5 :arrow_down:
+
+
+
+### :computer: The first test with 2 parameters :fast_forward:
+![4](https://user-images.githubusercontent.com/115346533/206523239-d6c6bc37-30b0-4155-991b-dc6ab7fc7ac1.jpg)
+
+#
+
+
+
+### :computer: The second test with 3 parameters :fast_forward:
+![5](https://user-images.githubusercontent.com/115346533/206524326-f6ca53fa-87c2-42c0-a2f7-af99aab7eade.jpg)
+
+#
+
+
+
+### :computer: The third test with 4 parameters :fast_forward:
+![6](https://user-images.githubusercontent.com/115346533/206524923-1170f734-0927-4ee6-87fe-bd2c77dcbea6.jpg)
+
+
+------
+
 
 

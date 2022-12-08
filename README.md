@@ -116,3 +116,75 @@ These are some API endpoints manually tested by myself using Postman, a special 
 
 
 
+### :computer: The third test with 6 parameters (All data request) :fast_forward:
+![14](https://user-images.githubusercontent.com/115346533/206547922-daf6b439-5854-4402-89de-8fb736a07dd0.jpg)
+
+#
+
+
+
+### :computer: The fourth test with Poster request :fast_forward:
+![15](https://user-images.githubusercontent.com/115346533/206549544-18129a32-48fb-4307-adbe-711e9cfb2fc2.jpg)
+
+
+------
+
+
+
+## :five: News API on https://www.newsapi.ai/documentation?tab=searchArticles :arrow_down:
+
+
+
+### :computer: The first test with 4 parameters (Get articles) :fast_forward:
+![16](https://user-images.githubusercontent.com/115346533/206551966-dab0acd0-01dc-47fb-a692-2e8a121260d4.jpg)
+
+#
+
+
+
+### :computer: The second test with 5 parameters (Get articles) :fast_forward:
+![17](https://user-images.githubusercontent.com/115346533/206552408-c2c4024d-c103-45bc-8757-4a2c972ed46d.jpg)
+
+#
+
+
+
+### :computer: The third test with 6 parameters (Get articles) :fast_forward:
+![18](https://user-images.githubusercontent.com/115346533/206552671-65b010c7-12fc-4a5e-bc53-6aee40e4b0ff.jpg)
+
+#
+
+
+
+### :computer: The fourth test with 5 parameters (Get articles) and POST method :fast_forward:
+![19](https://user-images.githubusercontent.com/115346533/206553146-64c81f44-866a-4ae9-96c6-8ff6517f7605.jpg)
+
+
+------
+
+
+
+## :six: Chuck Norris Jokes API on https://api.chucknorris.io/ :arrow_down:
+
+
+
+### :computer: The first test with Random Joke (no parameter) :fast_forward:
+![20](https://user-images.githubusercontent.com/115346533/206553779-1f8ca008-43c3-4815-9c2c-fa3fce0e8186.jpg)
+
+#
+
+
+
+### :computer: The second test with Joke from a given category (1 parameter) :fast_forward:
+![21](https://user-images.githubusercontent.com/115346533/206554149-d1836e29-250c-47f9-8e81-34ca8d977488.jpg)
+
+#
+
+
+
+### :computer: The third test with Free text search (1 parameter) :fast_forward:
+![22](https://user-images.githubusercontent.com/115346533/206554945-f9cb1d96-db7a-4055-a941-6257aff628f7.jpg)
+
+
+------
+

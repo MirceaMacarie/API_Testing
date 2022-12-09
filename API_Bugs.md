@@ -69,4 +69,45 @@ This file contains various bugs discovered on API endpoints which were verified 
 
 
 
+### :exclamation::bug: The key names could be written with spaces at beginning :fast_forward:
+![30](https://user-images.githubusercontent.com/115346533/206698828-6d2a55da-0901-4867-aa60-60833d4456e3.jpg)
+
+#
+
+
+
+### :exclamation::bug: The value of the id could be written as decimal number :fast_forward:
+![31](https://user-images.githubusercontent.com/115346533/206699563-b48b80df-885e-4ded-a79c-7b8a1eaab86c.jpg)
+
+#
+
+
+
+### :exclamation::bug: The value of the id could be written in various and inadequate ways (eg. "270+266=536") :fast_forward:
+![32](https://user-images.githubusercontent.com/115346533/206700406-2a168c1c-2fc0-42e1-8329-8483a1bd803a.jpg)
+
+#
+
+
+
+### :exclamation::bug: The value of the id could be written with spaces :fast_forward:
+![33](https://user-images.githubusercontent.com/115346533/206701299-1662129e-4390-4f24-9d6a-9efc9fd2e48a.jpg)
+
+#
+
+
+
+### :exclamation::bug: It could be written any character after comma or period :fast_forward:
+![34](https://user-images.githubusercontent.com/115346533/206701770-ecc8261f-f9e7-4c9e-a3ba-a83cb27d18ab.jpg)
+
+#
+
+
+
+### :exclamation::bug: The endpoint works with a non-existent parameter :fast_forward:
+![35](https://user-images.githubusercontent.com/115346533/206702078-393f625a-187c-44f0-b75b-eb0a5d530d38.jpg)
+
+#
+
+
 

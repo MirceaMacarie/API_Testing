@@ -289,7 +289,85 @@ This file contains various bugs discovered on API endpoints which were verified 
 
 
 
-###
+### :exclamation::bug: The "resultType" key written wrong, but correct response :fast_forward:
+![60](https://user-images.githubusercontent.com/115346533/206859261-ed4f83fb-c693-41ee-b692-8e41092418cd.jpg)
+
+#
+
+
+
+### :exclamation::bug: Incorrect error message for "apiKey" key which is written wrong :fast_forward:
+![61](https://user-images.githubusercontent.com/115346533/206859327-3422f811-2974-48e1-af43-9731188b04a5.jpg)
+
+#
+
+
+
+### :exclamation::bug: Inappropriate error message for negative value of "articlesCount" :fast_forward:
+![62](https://user-images.githubusercontent.com/115346533/206859380-ea224ce6-e539-456b-84b1-ad5022bc6554.jpg)
+
+#
+
+
+
+### :exclamation::bug: Correct response with incorrect value of "includeArticleBody" :fast_forward:
+![63](https://user-images.githubusercontent.com/115346533/206859452-e4b54850-16c2-4c8e-bcd6-4fd546fa8620.jpg)
+
+#
+
+
+
+### :exclamation::bug: Correct response with incorrect value of "includeArticleTitle" :fast_forward:
+![64](https://user-images.githubusercontent.com/115346533/206859582-10055455-e03c-4c31-95f2-145a90ec5101.jpg)
+
+#
+
+
+
+### :exclamation::bug: "Fasle" has the same correct result as "false" value :fast_forward:
+![65](https://user-images.githubusercontent.com/115346533/206859711-8f4dc3fb-b846-42e6-8b72-2ba2cba82040.jpg)
+
+#
+
+
+
+### :exclamation::bug: The default value of "includeArticleAuthors" is false, not true, as in docs :fast_forward:
+![66](https://user-images.githubusercontent.com/115346533/206859780-1911f701-6dff-4731-8919-0616bbf9b982.jpg)
+
+#
+
+
+
+### :exclamation::bug: The default value of "includeArticleBody" is false, not true, as in docs :fast_forward:
+![67](https://user-images.githubusercontent.com/115346533/206859840-0e4b4ab3-fdaa-4d70-95ee-a71ef5c75a43.jpg)
+
+#
+
+
+
+### :exclamation::bug: The default value of "includeArticleImage" is false, not true, as in docs :fast_forward:
+![68](https://user-images.githubusercontent.com/115346533/206859908-c08fe7cb-56f8-4aac-a399-9ed4d3001e30.jpg)
+
+#
+
+
+
+### :exclamation::bug: Correct response when is written "includearticleimage", not "includeArticleImage" :fast_forward:
+![69](https://user-images.githubusercontent.com/115346533/206859971-c4aea331-80e0-4be3-ac92-3924c5210214.jpg)
+
+#
+
+
+
+### :exclamation::bug: The key "articlesCount" returns correct results as "articlescount" :fast_forward:
+![70](https://user-images.githubusercontent.com/115346533/206860051-1163aea4-c9a2-4fd8-841f-e73ecfab12ad.jpg)
+
+
+------
+
+
+
+
 
 
 

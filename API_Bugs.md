@@ -217,6 +217,96 @@ This file contains various bugs discovered on API endpoints which were verified 
 
 
 
+## :four: The Open Movie Database API on https://www.omdbapi.com/ :arrow_down:
+
+
+
+### :exclamation::bug: Return a valid result with a title and a different IMDb ID :fast_forward:
+![51](https://user-images.githubusercontent.com/115346533/206852488-384006d1-fcfa-430d-a6f7-ad069b39ea45.jpg)
+
+#
+
+
+
+### :exclamation::bug: Wrong message error (the parameter is incorrect, not IMDb ID) :fast_forward:
+![52](https://user-images.githubusercontent.com/115346533/206852595-7272ad6a-461f-4cf8-89ef-b56f0ada21cb.jpg)
+
+#
+
+
+
+### :exclamation::bug: Parameter "y" (year) is written wrong, but valid result :fast_forward:
+![53](https://user-images.githubusercontent.com/115346533/206852656-d13f013a-a2dc-4ed4-8c0e-68b634c9dea7.jpg)
+
+#
+
+
+
+### :exclamation::bug: Wrong message error (parameter "s" is written incorrect, not the ID) :fast_forward:
+![54](https://user-images.githubusercontent.com/115346533/206852884-04d35442-c7bd-4031-a4fb-0d44fa428561.jpg)
+
+#
+
+
+
+### :exclamation::bug: Valid result with "plot" key written wrong :fast_forward:
+![55](https://user-images.githubusercontent.com/115346533/206853280-35412044-2918-4e9c-b095-bd6bc79b8d4b.jpg)
+
+#
+
+
+
+### :exclamation::bug: Valid result with "plot" value written incorrect :fast_forward:
+![56](https://user-images.githubusercontent.com/115346533/206853339-4400a2ca-ba70-409f-99f8-2a8a652c612f.jpg)
+
+#
+
+
+
+### :exclamation::bug: Incorrect error message + do not return an existent result :fast_forward:
+![57](https://user-images.githubusercontent.com/115346533/206853456-a7b1a44e-ae03-4bc3-b1fd-1f2cc68072f0.jpg)
+
+#
+
+
+
+### :exclamation::bug: The error message is not detailed and inconsistent :fast_forward:
+![58](https://user-images.githubusercontent.com/115346533/206853556-3a2deb4c-de4e-406c-b136-d84acd212690.jpg)
+
+#
+
+
+
+### :exclamation::bug: Without an ID, it is returned an unclear error message :fast_forward:
+![59](https://user-images.githubusercontent.com/115346533/206853973-b66a53c1-b931-433b-9a66-806b2d9cb5b2.jpg)
+
+
+------
+
+
+
+## :five: News API on https://www.newsapi.ai/documentation?tab=searchArticles :arrow_down:
+
+
+
+###
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

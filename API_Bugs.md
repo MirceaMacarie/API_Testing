@@ -367,31 +367,69 @@ This file contains various bugs discovered on API endpoints which were verified 
 
 
 
+## :six: Chuck Norris Jokes API on https://api.chucknorris.io/ :arrow_down:
 
 
 
+### :exclamation::bug: The endpoint works with parameters which are not mentioned in docs :fast_forward:
+![71](https://user-images.githubusercontent.com/115346533/206860578-fa583d83-34e7-4e5e-a07c-cc78791be6ad.jpg)
+
+#
 
 
 
+### :exclamation::bug: The link from "icon_url" parameter is not working :fast_forward:
+![72](https://user-images.githubusercontent.com/115346533/206860671-1869b237-e8f5-4663-8236-808a4adca2a4.jpg)
+
+#
 
 
 
+### :exclamation::bug: Valid response instead of error parameter message :fast_forward:
+![73](https://user-images.githubusercontent.com/115346533/206860752-366f3d7a-2313-443f-8a58-ef9a896691e7.jpg)
+
+#
 
 
 
+### :exclamation::bug: Valid random response with parameter "category" written wronng :fast_forward:
+![74](https://user-images.githubusercontent.com/115346533/206860835-4553bae2-f702-4877-89a8-8d563910fb67.jpg)
+
+#
+
+
+### :exclamation::bug: Valid response with an inexistent parameter :fast_forward:
+![75](https://user-images.githubusercontent.com/115346533/206860877-9e61bbaf-43ed-4790-9431-f27a00161a7b.jpg)
+
+#
 
 
 
+### :exclamation::bug: Valid random joke with "query" parameter :fast_forward:
+![76](https://user-images.githubusercontent.com/115346533/206860952-e4a40799-2781-41c5-a3ec-ddade4212a4d.jpg)
+
+#
 
 
 
+### :exclamation::bug: Normal response with an inexistent parameter :fast_forward:
+![77](https://user-images.githubusercontent.com/115346533/206861039-d8e595d9-6670-42a8-b75a-52f0bcc8a8e7.jpg)
+
+#
 
 
 
+### :exclamation::bug: No error message for user :fast_forward:
+![78](https://user-images.githubusercontent.com/115346533/206861204-1b630db5-ebd9-4783-9e72-326ec1045bb5.jpg)
+
+#
 
 
 
+### :exclamation::bug: No error message for a request with no parameter :fast_forward:
+![79](https://user-images.githubusercontent.com/115346533/206861214-231e196b-081e-4bf4-9367-8d8b7fc3d648.jpg)
 
 
+------
 
 

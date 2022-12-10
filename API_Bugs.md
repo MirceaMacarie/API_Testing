@@ -97,7 +97,7 @@ This file contains various bugs discovered on API endpoints which were verified 
 
 
 
-### :exclamation::bug: It could be written any character after comma or period :fast_forward:
+### :exclamation::bug: Any character could be written after comma or period :fast_forward:
 ![34](https://user-images.githubusercontent.com/115346533/206701770-ecc8261f-f9e7-4c9e-a3ba-a83cb27d18ab.jpg)
 
 #
@@ -108,6 +108,122 @@ This file contains various bugs discovered on API endpoints which were verified 
 ![35](https://user-images.githubusercontent.com/115346533/206702078-393f625a-187c-44f0-b75b-eb0a5d530d38.jpg)
 
 #
+
+
+
+### :exclamation::bug: New user could be create without any name :fast_forward:
+![36](https://user-images.githubusercontent.com/115346533/206850254-b50c5e3c-706f-4750-a8f1-1251db1134da.jpg)
+
+#
+
+
+
+### :exclamation::bug: The error message is not clear enough for user :fast_forward:
+![37](https://user-images.githubusercontent.com/115346533/206850599-5edf48d2-6557-4c5c-b63a-5cc30b4733a5.jpg)
+
+#
+
+
+
+### :exclamation::bug: The last_name parameter has a 10 characters limit :fast_forward:
+![38](https://user-images.githubusercontent.com/115346533/206850760-2aeb60ba-0328-45ab-abad-4e1e3c0e49ae.jpg)
+
+#
+
+
+
+### :exclamation::bug: The first_name parameter has a 10 characters limit :fast_forward:
+![39](https://user-images.githubusercontent.com/115346533/206850934-cfa89def-47a2-47b7-a8e4-bc7e84c96fb9.jpg)
+
+#
+
+
+
+### :exclamation::bug: Both names in the first_name value :fast_forward:
+![40](https://user-images.githubusercontent.com/115346533/206851040-952ad435-af01-402b-a457-6c794e4f76f4.jpg)
+
+#
+
+
+
+### :exclamation::bug: Update an id which does not exist :fast_forward:
+![41](https://user-images.githubusercontent.com/115346533/206851177-728bad22-2462-420a-8541-d89c21903334.jpg)
+
+#
+
+
+
+### :exclamation::bug: Update the names with any type of characters :fast_forward:
+![42](https://user-images.githubusercontent.com/115346533/206851288-6ed43b69-6a69-42c6-b973-e3068250aaa0.jpg)
+
+#
+
+
+
+### :exclamation::bug: The id could be updated successfully without any value :fast_forward:
+![43](https://user-images.githubusercontent.com/115346533/206851339-40a92ea3-cb7f-4437-9fa4-e3f284423d1b.jpg)
+
+#
+
+
+
+### :exclamation::bug: Update successfully with no parameters values :fast_forward:
+![44](https://user-images.githubusercontent.com/115346533/206851426-cd076fa7-8a2a-4e60-b7a2-7e2a64a5bbca.jpg)
+
+#
+
+
+
+### :exclamation::bug: Id value written with symbols, not numbers :fast_forward:
+![45](https://user-images.githubusercontent.com/115346533/206851476-8be86a32-8aff-4875-99fe-5340a72f7145.jpg)
+
+#
+
+
+
+### :exclamation::bug: The endpoint works with non-existing parameters :fast_forward:
+![46](https://user-images.githubusercontent.com/115346533/206851773-6bc0b0d9-27c2-4a49-b45f-f31865c56822.jpg)
+
+#
+
+
+
+### :exclamation::bug: "Success" message with wrong id value :fast_forward:
+![47](https://user-images.githubusercontent.com/115346533/206851936-6ba30d1e-4025-4fab-ab14-9b3148ef01ae.jpg)
+
+#
+
+
+
+### :exclamation::bug: "Success" message with no id value :fast_forward:
+![48](https://user-images.githubusercontent.com/115346533/206852006-979f4932-904f-4eef-9ca5-a2867b03da5e.jpg)
+
+#
+
+
+
+### :exclamation::bug: "Success" message with wrong written key and value :fast_forward:
+![49](https://user-images.githubusercontent.com/115346533/206852061-98408ea2-0911-4deb-8e03-39a4ef8aa15b.jpg)
+
+#
+
+
+
+### :exclamation::bug: "Success" message without id key :fast_forward:
+![50](https://user-images.githubusercontent.com/115346533/206852103-d39b08aa-0e7f-4ac6-b107-5d62c077609c.jpg)
+
+
+------
+
+
+
+
+
+
+
+
+
+
 
 
 

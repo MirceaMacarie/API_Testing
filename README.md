@@ -1,5 +1,5 @@
 # API Testing
-These are some API endpoints manually tested by myself using Postman, a special tool for API testing. I made more tests with different parameters for every endpoint, in order to verify and practice Positive testing and Negative testing on APIs.
+These are some API endpoints manually tested by myself using Postman, a special tool for API testing. I made more tests with different parameters for every endpoint, in order to verify and practice Positive testing and Negative testing on APIs. In the "API_Bugs" file I wrote the API bugs found by myself.
 
 
 ------
